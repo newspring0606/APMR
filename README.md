@@ -173,6 +173,10 @@ The script ensures that each step is executed sequentially, and the results are 
 
 The results of the model training and evaluation will be saved in the `results` directory. You can use the `error_visualizer.py` script to visualize the performance of the models.
 
+## Data Availability
+
+To protect patient privacy, only three sample cases demonstrating the best, worst, and typical performance ar publicly available. Theses sample cases can be found in the `data` directory.
+
 ## Authors
 
 This project is developed by the research team working on the APMR project.
