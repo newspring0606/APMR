@@ -32,15 +32,7 @@ To set up the environment and install the required dependencies, follow these st
     
     ```
     
-2. Create a Conda environment:
-    
-    ```bash
-    conda create -n myenv python=3.8
-    conda activate myenv
-    
-    ```
-    
-3. Install the required packages:
+2. Install the required packages:
     
     ```bash
     pip install torch torchvision torchaudio --extra-index-url <https://download.pytorch.org/whl/cu117>
@@ -175,7 +167,7 @@ The results of the model training and evaluation will be saved in the `results` 
 
 ## Data Availability
 
-To protect patient privacy, only three sample cases demonstrating the best, worst, and typical performance ar publicly available. Theses sample cases can be found in the `data` directory.
+To protect patient privacy, only three sample cases demonstrating the best, worst, and typical performance are publicly available. Theses sample cases can be found in the `data` directory.
 
 ## Authors
 
