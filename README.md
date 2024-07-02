@@ -84,8 +84,8 @@ Here is the overview of the directory structure:
 │   ├── catboost_trainer.py
 │   ├── file_operator.py
 │   ├── error_visualizer.py
-│   ├── displacement_saver.py
-│   └── main.py
+│   └── displacement_saver.py
+└── main.py
 
 ```
 
